@@ -1,8 +1,8 @@
 ### Olá! eu sou  o Helber Luz 🖐️
 
 <div>
- <img height="180em" src="![Helber GitHub stats](https://github-readme-stats.vercel.app/api?username=LuzHelber&show_icons=true&theme=onedark)"/>
- <img align-"right" height="180em" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuzHelber)](https://github.com/LuzHelber/github-readme-stats)"/> 
+ ![Helber GitHub stats](https://github-readme-stats.vercel.app/api?username=LuzHelber&show_icons=true&theme=onedark)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuzHelber)](https://github.com/LuzHelber/github-readme-stats) 
 </div>
 <br>
 
