@@ -24,7 +24,7 @@
     
 
  
- ![Snake animation](https://github.com/LuzHelber/LuzHelber/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
